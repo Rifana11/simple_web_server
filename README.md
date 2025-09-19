@@ -39,9 +39,10 @@ httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()'''
 
 # OUTPUT:
-![alt text](<../Screenshot (14).png>)
 
-![alt text](<../Screenshot (15).png>)
+![alt text](<Screenshot (14).png>)
+
+![alt text](<Screenshot (15).png>)
 
 
 # RESULT:
