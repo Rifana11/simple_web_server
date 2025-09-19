@@ -39,7 +39,12 @@ httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()
 '''
 # OUTPUT:
-c:\Users\acer\Pictures\Screenshots\Screenshot (14).png
-c:\Users\acer\Pictures\Screenshots\Screenshot (15).png
+
+![alt text](<../Screenshot (14).png>)
+
+![alt text](<../Screenshot (15).png>)
+
+
+
 # RESULT:
 The program for implementing simple webserver is executed successfully.
